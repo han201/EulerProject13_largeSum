@@ -1,0 +1,3 @@
+﻿  EulerProject13_largeSum.cpp
+c:\users\hahna\onedrive\documents\visual studio 2015\projects\eulerproject13_largesum\eulerproject13_largesum\eulerproject13_largesum.cpp(41): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  EulerProject13_largeSum.vcxproj -> C:\Users\hahna\OneDrive\Documents\Visual Studio 2015\Projects\EulerProject13_largeSum\Debug\EulerProject13_largeSum.exe
